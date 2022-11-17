@@ -1,0 +1,16 @@
+{
+  "tr-TR": {
+    "rank" : "Rank: $(competitive_rank) | Güncel RR: $(ranked_rating) | Son Maç: $(last_match_rr) | MMR: $(mmr)",
+    "match": "$(currentplayer), son maçını $(match_score) skoruyla $(match_result). Bu maçtan $(last_match_rr) RR $(match_result). Maç, $(server) sunucusunda $(map) haritasında toplam $(minutes) dakika $(seconds) saniye sürdü. $(currentplayer), maç boyunca $(kills)/$(deaths)/$(assists) K/D/A yaptı. %$(headshot_rate) heashot oranı ile maçı tamamladı.",
+    "ranks": {"Iron": "Demir", "Bronze": "Bronz", "Silver": "Gümüş", "Gold": "Altın", "Platinum": "Platin", "Diamond": "Elmas", "Immortal": "Ölümsüzlük", "Ascendant": "Yücelik", "Radiant": "Radyant"},
+    "won": "kazandı",
+    "lost": "kaybetti"
+  },
+  "en-US": {
+    "rank" : "Rank: $(competitive_rank) | Current RR: $(ranked_rating) | Last Match: $(last_match_rr) | MMR: $(mmr)",
+    "match": "$(currentplayer) has lost his last match by $(match_score). $(match_result) $(mmrlastgame) RR. Match lasted $(minutes) minutes and $(seconds) seconds on $(server) server at $(map) map in total of $(totalrounds) rounds. $(currentplayer) killed $(kills) rival players, died $(deaths) times and made $(assists) assist to his teammates. $(currentplayer) landed $(headshots) headshots and $(bodyshots) bodyshots.",
+    "ranks": {"Iron": "Iron", "Bronze": "Bronze", "Silver": "Silver", "Gold": "Gold", "Platinum": "Platinum", "Diamond": "Diamond", "Immortal": "Immortal","Ascendant": "Ascendant", "Radiant": "Radiant"},
+    "won": "Won",
+    "lost": "Lost"
+  }
+}
